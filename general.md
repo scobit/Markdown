@@ -39,29 +39,35 @@
 
 ## Emphasis
 
-Bold
-To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
+#### Bold
 
-Bold Best Practices
-Markdown applications don’t agree on how to handle underscores in the middle of a word. For compatibility, use asterisks to bold the middle of a word for emphasis.
+Добавить 2 знака звёздочки или два символа нижнее подчеркивание до и после слова или предложения.
 
-Italic
-To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
+Форматирование также применимо для букв в слове - по тем же правилам.
 
-Italic Best Practices
-Markdown applications don’t agree on how to handle underscores in the middle of a word. For compatibility, use asterisks to italicize the middle of a word for emphasis.
+#### Bold Best Practices
+
+Нет чёткого согласования между MD приложениями, о том как обрабатывать знаки нижнего подчеркивания в слове. Для совместимости рекомендуется  
+использовать символы звёздочки.
+
+
+#### Italic
+
+Добавить 1 знак звёздочки или один символ нижнего подчеркивания до и после слова или предложения.
+
+Форматирование также применимо для букв в слове - по тем же правилам.
+
+#### Italic Best Practices
+
+Нет чёткого согласования между MD приложениями, о том как обрабатывать знаки нижнего подчеркивания в слове. Для совместимости рекомендуется  
+использовать символы звёздочки.
 
 
 ```
 vim /etc/ntp.conf
 ```
-```
-pwd
-```
-  ls
-#### how to ls
-  ls
-  asd
-   asd
-    asd
-        
+
+
+ pwd
+ 
+ 
