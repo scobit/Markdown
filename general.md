@@ -55,5 +55,9 @@ Markdown applications don’t agree on how to handle underscores in the middle o
 ```
 vim /etc/ntp.conf
 ```
+```
 pwd
 ```
+ ls
+#### how to ls
+ ls
