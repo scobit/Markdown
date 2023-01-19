@@ -58,6 +58,6 @@ vim /etc/ntp.conf
 ```
 pwd
 ```
- ls
+  ls
 #### how to ls
- ls
+  ls
