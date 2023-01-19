@@ -70,4 +70,9 @@ vim /etc/ntp.conf
 
  pwd
  
- 
+  pwd
+   pwd
+
+    pwd
+    
+    
