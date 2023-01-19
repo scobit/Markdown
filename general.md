@@ -67,6 +67,15 @@
 vim /etc/ntp.conf
 ```
 
+```*.bash
+cat
+```
+
+
+```bash
+echo "asdasdma sdas da s" > file.txt | 
+```
+
 
  pwd
  
